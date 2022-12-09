@@ -3,8 +3,9 @@
 ## A Discord Bot to check a Garry's Mod server's playercount
 This is a Discord Bot that will check a playercount of a Garry's Mod Server
 
-In the config.json, enter your Discord Bot Token in the "token" section
-In the config.json, enter the IP of the server of which you would like to keep track of
+In the config.json, enter your Discord Bot Token in the "token" section.
+
+In the config.json, enter the IP of the server of which you would like to keep track of.
 
 ## How do I run this bot?
 To run a Discord bot, you will need to have a Discord bot account, a server to run the bot on, and a local development environment set up with the necessary libraries and dependencies.
